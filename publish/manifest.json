@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.da05f165ff0a5fc228387332b6c5c0ab.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.21051c29386acc3db0eadae6ff8e4d2a.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bce715323d2ace74be251ca0466c09ba.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1758f0610e8530f0a3846762c1542e1f.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5ea9b89573925ebe51b4ba91e2548e3c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Portal SER",
+  "short_name": "Portal SER",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Centro de Qualidade de Vida & Desenvolvimento Humano",
+  "background_color": "#ffffff",
+  "theme_color": "#2588e4"
+}
