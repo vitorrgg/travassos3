@@ -1,7 +1,7 @@
 {
   "domain": "ecomplus-storefront.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#35a6fd",
+  "primary_color": "#2588e4",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
