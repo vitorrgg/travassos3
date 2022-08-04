@@ -1,4 +1,15 @@
 {
   "title": "Areal Online",
-  "body": "Todas as Lojas Associadas"
+  "body": "Todas as Lojas Associadas",
+  "sections": [
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/portal-ser.png",
+          "link": "https://travassos3.netlify.app/"
+        }
+      ]
+    }
+  ]
 }
